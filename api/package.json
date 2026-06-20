@@ -1,0 +1,8 @@
+{
+  "name": "paste-garden",
+  "version": "1.0.0",
+  "description": "A simple pastebin",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0"
+  }
+}
